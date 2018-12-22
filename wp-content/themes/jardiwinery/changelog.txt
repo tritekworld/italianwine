@@ -1,0 +1,52 @@
+Version 1.7
+	Added:
+	- GDPR Framework plugin
+	- Alert to Demo data installation
+	- Compatibility with Gutenberg and other PageBuilders
+
+	Fixed:
+	- Compatibility with WP 4.9.7
+	- Update documentation
+	
+	Changed:
+	- Default form to make them GDPR-compliant
+
+Version 1.6
+    Updated Revolution Slider to its latest version 5.4.7.1
+    Updated Essential Grid to its latest version 2.1.6.2
+    Fixed WooCommerce 3.3.3
+    Updated Demo data
+    Added new CSS styles
+    Add to cart fixed
+
+Version 1.5
+    Compatibility with PHP7
+    Updated Revolution Slider to its latest version
+    Updated WPBakery PageBuilder to its latest version
+    Fixed shortcode WPBakery PageBuilder in PHP7.1
+    Fixed activated plugins bugs
+    Fixed WooCommerce 3.2.3
+    Updated Demo data
+    Added new CSS styles
+
+Version 1.4
+	Plugins updated
+	Related posts fixed
+	Add to cart fixed
+
+Version 1.3
+	Plugins updated 
+	Documentation updated
+	Dummy data import fixed
+
+Version 1.2
+    Compatibility with WooCommerce 3.0+ is added
+    Plugins included in the theme, updated to their latest versions
+
+Version 1.1
+    Fixed some css errors
+    Updated WPBakery WPBakery PageBuilder to latest version
+    Updated Revolution Slider to latest version
+
+Version 1.0
+	Release
